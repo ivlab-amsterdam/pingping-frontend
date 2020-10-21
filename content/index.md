@@ -1,5 +1,5 @@
 ---
-title: Een routeplanner die jongeren op weg helpt! - Test
+title: Een routeplanner die jongeren op weg helpt! - Test2
 subtitle: Met Ping Ping bieden we je een persoonlijke routeplanner om op een
   leuke en makkelijke manier je (financiële) zaken te regelen en je basis op
   orde te brengen. Zo weet je precies wanneer en wat je moet regelen bij
